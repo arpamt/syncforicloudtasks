@@ -1,0 +1,54 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    android:padding="0dip" >
+
+    <com.astuetz.PagerSlidingTabStrip
+        xmlns:app="http://schemas.android.com/apk/res/com.granita.tasks"
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        android:background="?attr/primaryColor"
+        app:pstsDividerColor="#00000000"
+        app:pstsIndicatorColor="@android:color/white"
+        app:pstsShouldExpand="true"
+        app:pstsTabPaddingLeftRight="0dp"
+        app:pstsTabBackground="@drawable/selectable_background_white"
+        app:pstsUnderlineColor="@android:color/transparent"
+        android:backgroundTint="#7a7a7a" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/fragment2">
+
+        <android.support.v4.view.ViewPager
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".MainActivity" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:background="@drawable/window_overlay" />
+    </FrameLayout>
+    <fragment
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:name="com.granita.tasks.Ads.AdFragment"
+        android:id="@+id/fragment2"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="0dp" />
+    </RelativeLayout>
+
+</LinearLayout>

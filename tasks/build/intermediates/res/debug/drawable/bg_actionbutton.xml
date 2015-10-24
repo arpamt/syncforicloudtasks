@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/bg_actionbutton_pressed" android:state_pressed="true"></item>
+    <item android:drawable="@drawable/bg_actionbutton_pressed" android:state_focused="true"></item>
+    <item android:drawable="@drawable/bg_actionbutton_normal" ></item>
+    
+
+</selector><!-- From: file:/C:/Users/Daniel/Documents/Android%20Development/Android%20Studio/Sync%20for%20iCloud%20Tasks/tasks/src/main/res/drawable/bg_actionbutton.xml -->

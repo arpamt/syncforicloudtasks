@@ -1,0 +1,225 @@
+# view res/layout/activity_task_list.xml #generated:31
+# view res/layout/activity_task_twopane.xml #generated:45
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:130
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.internal.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.internal.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.internal.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.internal.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.internal.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:48
+-keep class android.support.v7.internal.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.internal.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.internal.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/abc_action_mode_close_item_material.xml #generated:17
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:27
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:37
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:48
+# view res/layout/abc_search_view.xml #generated:116
+# view res/layout/abc_search_view.xml #generated:128
+# view res/layout/abc_search_view.xml #generated:38
+# view res/layout/abc_search_view.xml #generated:60
+# view res/layout/abc_search_view.xml #generated:97
+-keep class android.support.v7.internal.widget.TintImageView { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.internal.widget.ViewStubCompat { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:78
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/activity_task_list.xml #generated:9
+# view res/layout/activity_task_twopane.xml #generated:33
+-keep class com.astuetz.PagerSlidingTabStrip { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view res/layout/list_item_selection.xml #generated:17
+# view v11\res/layout-v11/list_item_selection.xml #generated:17
+-keep class com.granita.android.widgets.ColoredShapeCheckBox { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class com.granita.installicloud { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+-keep class com.granita.provider.tasks.TaskProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:265
+-keep class com.granita.provider.tasks.broadcast.AccountsChangeBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:247
+-keep class com.granita.provider.tasks.broadcast.DueAlarmBroadcastHandler { <init>(...); }
+
+# view AndroidManifest.xml #generated:236
+-keep class com.granita.provider.tasks.broadcast.StartAlarmBroadcastHandler { <init>(...); }
+
+# view AndroidManifest.xml #generated:258
+-keep class com.granita.provider.tasks.broadcast.TimeChangeBroadcastReceiver { <init>(...); }
+
+# view res/layout/activity_task_list.xml #generated:43
+-keep class com.granita.tasks.Ads.AdFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:92
+-keep class com.granita.tasks.EditTaskActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:157
+-keep class com.granita.tasks.SyncSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class com.granita.tasks.TaskListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:41
+-keep class com.granita.tasks.Tasks { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.granita.tasks.ViewTaskActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:333
+-keep class com.granita.tasks.dashclock.DashClockPreferenceActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:309
+-keep class com.granita.tasks.dashclock.TasksExtension { <init>(...); }
+
+# view AndroidManifest.xml #generated:179
+-keep class com.granita.tasks.homescreen.TaskListWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:207
+-keep class com.granita.tasks.homescreen.TaskListWidgetProviderLarge { <init>(...); }
+
+# view AndroidManifest.xml #generated:165
+-keep class com.granita.tasks.homescreen.TaskListWidgetSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:174
+-keep class com.granita.tasks.homescreen.TaskListWidgetUpdaterService { <init>(...); }
+
+# view AndroidManifest.xml #generated:271
+-keep class com.granita.tasks.notification.AlarmBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:289
+-keep class com.granita.tasks.notification.NotificationActionIntentService { <init>(...); }
+
+# view res/layout/fragment_expandable_task_list.xml #generated:8
+-keep class com.granita.tasks.utils.RetainExpandableListView { <init>(...); }
+
+# view res/layout/boolean_field_editor.xml #generated:2
+-keep class com.granita.tasks.widget.BooleanFieldEditor { <init>(...); }
+
+# view res/layout/boolean_field_view.xml #generated:2
+-keep class com.granita.tasks.widget.BooleanFieldView { <init>(...); }
+
+# view res/layout/checklist_field_editor.xml #generated:2
+-keep class com.granita.tasks.widget.CheckListFieldEditor { <init>(...); }
+
+# view res/layout/checklist_field_view.xml #generated:2
+-keep class com.granita.tasks.widget.CheckListFieldView { <init>(...); }
+
+# view res/layout/choices_field_editor.xml #generated:2
+-keep class com.granita.tasks.widget.ChoicesFieldEditor { <init>(...); }
+
+# view res/layout/choices_field_view.xml #generated:2
+-keep class com.granita.tasks.widget.ChoicesFieldView { <init>(...); }
+
+# view res/layout/list_color_view.xml #generated:2
+# view res/layout/task_view.xml #generated:9
+-keep class com.granita.tasks.widget.ListColorView { <init>(...); }
+
+# view res/layout/fragment_task_edit_detail.xml #generated:1
+# view res/layout/fragment_task_edit_detail_twopane.xml #generated:1
+# view res/layout/fragment_task_view_detail.xml #generated:1
+# view res/layout/fragment_task_view_detail_twopane.xml #generated:1
+-keep class com.granita.tasks.widget.ListenableScrollView { <init>(...); }
+
+# view res/layout/percentage_field_editor.xml #generated:2
+-keep class com.granita.tasks.widget.PercentageFieldEditor { <init>(...); }
+
+# view res/layout/percentage_field_view.xml #generated:2
+-keep class com.granita.tasks.widget.PercentageFieldView { <init>(...); }
+
+# view res/layout/task_edit.xml #generated:2
+-keep class com.granita.tasks.widget.TaskEdit { <init>(...); }
+
+# view res/layout/task_list_field_editor.xml #generated:2
+-keep class com.granita.tasks.widget.TaskListFieldEditor { <init>(...); }
+
+# view res/layout/task_list_field_view.xml #generated:2
+-keep class com.granita.tasks.widget.TaskListFieldView { <init>(...); }
+
+# view res/layout/task_view.xml #generated:2
+-keep class com.granita.tasks.widget.TaskView { <init>(...); }
+
+# view res/layout/text_field_editor.xml #generated:2
+# view v11\res/layout-v11/text_field_editor.xml #generated:2
+-keep class com.granita.tasks.widget.TextFieldEditor { <init>(...); }
+
+# view res/layout/task_view.xml #generated:18
+# view res/layout/text_field_view.xml #generated:2
+# view res/layout/text_field_view_nodivider.xml #generated:2
+# view res/layout/text_field_view_nodivider_large.xml #generated:2
+# view res/layout/text_field_view_nodivider_small.xml #generated:2
+-keep class com.granita.tasks.widget.TextFieldView { <init>(...); }
+
+# view res/layout/time_field_editor.xml #generated:2
+-keep class com.granita.tasks.widget.TimeFieldEditor { <init>(...); }
+
+# view res/layout/task_view.xml #generated:43
+# view res/layout/time_field_view.xml #generated:2
+-keep class com.granita.tasks.widget.TimeFieldView { <init>(...); }
+
+# view res/layout/url_field_editor.xml #generated:2
+# view v11\res/layout-v11/url_field_editor.xml #generated:2
+-keep class com.granita.tasks.widget.UrlFieldEditor { <init>(...); }
+
+# view res/layout/url_field_view.xml #generated:2
+-keep class com.granita.tasks.widget.UrlFieldView { <init>(...); }
+
+# onClick res/layout/installicloud.xml #generated:2
+# onClick res/layout/installicloud.xml #generated:8
+-keepclassmembers class * { *** installredirect(...); }
+
+# onClick res/layout/fragment_synced_task_list.xml #generated:22
+-keepclassmembers class * { *** onCancelUpdated(...); }
+
+# onClick res/layout/fragment_synced_task_list.xml #generated:32
+-keepclassmembers class * { *** onSaveUpdated(...); }
+
+# onClick res/layout/fragment_visiblelist_list.xml #generated:17
+-keepclassmembers class * { *** showSyncedList(...); }
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.granita.tasks.widget.UrlFieldEditor xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/task_edit_widget" >
+
+    <include layout="@layout/editor_header" />
+
+    <EditText
+        android:id="@+id/text"
+        style="@style/field_editor_text_value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textUri" >
+    </EditText>
+
+</com.granita.tasks.widget.UrlFieldEditor><!-- From: file:/C:/Users/dtheuma/Documents/Android%20Studio/Sync%20for%20iCloud%20Tasks/tasks/src/main/res/layout/url_field_editor.xml -->

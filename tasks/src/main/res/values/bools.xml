@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- disable the com.granita.tasks.homescreen.TaskListWidgetUpdaterService$TaskListViewsFactory receiver in Android 2.x -->
+    <bool name="enable_widget_provider">false</bool>
+    <bool name="has_two_panes">false</bool>  
+
+</resources>

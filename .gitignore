@@ -1,43 +1,33 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+# temporary files
+*~
 
-# Folder config file
-Desktop.ini
+# local settings
+.settings/
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# binaries
+bin/
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+# exported files
+jars/
 
-# Windows shortcuts
-*.lnk
+#imported libs
+libs/
 
-# =========================
-# Operating System Files
-# =========================
+#class files
+*.class
 
-# OSX
-# =========================
+# built application files
+*.apk
+*.ap_
 
-.DS_Store
-.AppleDouble
-.LSOverride
+# # files for the dex VM
+*.dex
 
-# Thumbnails
-._*
+# # Java class files
+*.class
 
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+# # Local configuration file (sdk path, etc)
+local.properties
+/.settings
+#
+/gen

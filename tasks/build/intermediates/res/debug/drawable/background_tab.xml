@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" android:exitFadeDuration="@android:integer/config_shortAnimTime">
+
+    <item android:state_pressed="true" android:drawable="@color/background_tab_pressed" />
+    <item android:state_focused="true" android:drawable="@color/background_tab_pressed"/>
+    <item android:drawable="@android:color/transparent"/>
+
+</selector><!-- From: file:/C:/Users/Daniel/Documents/Android%20Development/Android%20Studio/Sync%20for%20iCloud%20Tasks/library/src/main/res/drawable/background_tab.xml --><!-- From: file:/C:/Users/Daniel/Documents/Android%20Development/Android%20Studio/Sync%20for%20iCloud%20Tasks/tasks/build/intermediates/exploded-aar/Sync%20for%20iCloud%20Tasks/library/unspecified/res/drawable/background_tab.xml -->

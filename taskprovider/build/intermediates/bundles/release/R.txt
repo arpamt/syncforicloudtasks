@@ -1,0 +1,4 @@
+int bool org_dmfs_allow_local_lists 0x7f030000
+int drawable ic_action_search 0x7f020000
+int drawable ic_launcher 0x7f020001
+int string org_dmfs_tasks_authority 0x7f040000

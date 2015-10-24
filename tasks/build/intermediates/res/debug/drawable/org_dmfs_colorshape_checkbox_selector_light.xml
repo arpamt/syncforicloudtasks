@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/ic_checkmark_blank" android:state_checked="false"></item>
+    <item android:drawable="@drawable/ic_checkmark_light" android:state_checked="true"></item>
+
+</selector><!-- From: file:/C:/Users/Daniel/Documents/Android%20Development/Android%20Studio/Sync%20for%20iCloud%20Tasks/tasks/src/main/res/drawable/org_dmfs_colorshape_checkbox_selector_light.xml -->

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/checkbox"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="-4dp" />
+<!-- From: file:/C:/Users/dtheuma/Documents/Android%20Studio/Sync%20for%20iCloud%20Tasks/tasks/src/main/res/layout/checklist_field_view_element.xml -->

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.granita.provider.tasks.test" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.granita.provider.tasks.test"
+        android:targetPackage="com.granita.provider.tasks.test" />
+
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+
+    <application android:icon="@drawable/ic_launcher" >
+        <uses-library android:name="android.test.runner" />
+
+        <receiver android:name="com.granita.provider.tasks.broadcast.DueAlarmBroadcastHandler" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.granita.provider.tasks.broadcast.TimeChangeBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.TIME_SET" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

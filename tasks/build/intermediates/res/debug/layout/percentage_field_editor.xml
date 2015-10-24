@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.granita.tasks.widget.PercentageFieldEditor xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/task_edit_widget" >
+
+    <include layout="@layout/editor_header" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dip"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <SeekBar
+            android:id="@+id/percentage_seek_bar"
+            style="@style/task_seekbar"
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dip"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/text"
+            style="@style/field_view_text_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dip"
+            android:layout_marginRight="4dip" >
+        </TextView>
+    </LinearLayout>
+
+</com.granita.tasks.widget.PercentageFieldEditor><!-- From: file:/C:/Users/Daniel/Documents/Android%20Development/Android%20Studio/Sync%20for%20iCloud%20Tasks/tasks/src/main/res/layout/percentage_field_editor.xml -->

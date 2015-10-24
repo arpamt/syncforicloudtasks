@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Daniel/Documents/Android%20Development/Android%20Studio/Sync%20for%20iCloud%20Tasks/tasks/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <plurals name="number_of_tasks">
+        <item quantity="one">%d zadanie</item>
+        <item quantity="few">%d zadania</item>
+        <item quantity="many">%d zadań</item>
+        <item quantity="other">%d zadań</item>
+    </plurals>
+    <!-- From: file:/C:/Users/Daniel/Documents/Android%20Development/Android%20Studio/Sync%20for%20iCloud%20Tasks/tasks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-pl/values-pl.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Przejdź do strony głównej"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobacz wszystkie"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Wyszukiwane hasło"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Udostępnij dla"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Udostępnij dla %s"</string>
+    <!-- From: file:/C:/Users/Daniel/Documents/Android%20Development/Android%20Studio/Sync%20for%20iCloud%20Tasks/tasks/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <string name="accept">Akceptuj</string>
+    <string name="action_cancel">Anuluj</string>
+    <string name="action_save">Zapisz</string>
+    <string name="action_save_and_continue">Zachowaj i kontynuuj</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="activity_add_task_title">Utwórz zadanie</string>
+    <string name="activity_edit_task_empty_task_not_saved">Puste zadanie - nie zostało zapisane.</string>
+    <string name="activity_edit_task_error_invalid_url">Błędny adres URL</string>
+    <string name="activity_edit_task_task_saved">Zadanie zapisane.</string>
+    <string name="activity_edit_task_title">Edytuj zadanie</string>
+    <string name="activity_task_details_complete">Zakończone</string>
+    <string name="activity_task_details_complete_task">Zakończone zadanie</string>
+    <string name="activity_task_details_delete">Usuń</string>
+    <string name="activity_task_details_delete_task">Usuń zadanie</string>
+    <string name="activity_task_details_edit">Edytuj</string>
+    <string name="activity_task_details_edit_task">Edytuj zadanie</string>
+    <string name="addaccount">Dodaj konto iCloud</string>
+    <string name="app_name">Sync na iCloud Zadania</string>
+    <string name="button_add_one_day">+1 dzień</string>
+    <string name="button_add_one_hour">+1 godzina</string>
+    <string name="cd_due_date">ikonka terminu zakończenia zadania</string>
+    <string name="cd_start_date">ikonka rozpoczęcia daty zadania</string>
+    <string name="classification_confidential">poufne</string>
+    <string name="classification_not_specified">nieokreślone</string>
+    <string name="classification_private">prywatne</string>
+    <string name="classification_public">publiczne</string>
+    <!-- From: file:/C:/Users/Daniel/Documents/Android%20Development/Android%20Studio/Sync%20for%20iCloud%20Tasks/tasks/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-pl/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Aplikacja wymaga aktualizacji do Android Wear."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Ta aplikacja nie będzie działać, jeśli nie zaktualizujesz aplikacji Google Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Zaktualizuj Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Włącz Usługi Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Ta aplikacja nie będzie działać, jeśli nie włączysz Usług Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Włącz Usługi Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Żądanie z aplikacji <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Pobierz Usługi Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Ta aplikacja nie będzie działać bez Usług Google Play, których nie masz na telefonie."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Ta aplikacja nie będzie działać bez Usług Google Play, których nie masz na tablecie."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Pobierz Usługi Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Podanego konta nie ma na tym urządzeniu. Wybierz inne konto."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Nieprawidłowe konto"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Aplikacja wymaga włączenia Usług Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Korzystanie z usług Google Play wymaga połączenia z internetem."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Błąd sieci"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Aplikacja wymaga zainstalowania Usług Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Aplikacja wymaga zaktualizowania Usług Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Błąd Usług Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Nieznany problem z Usługami Google Play."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Usługi Google Play, od których zależy działanie niektórych aplikacji, nie są obsługiwane na Twoim urządzeniu. Skontaktuj się z producentem, by uzyskać pomoc."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Usługi Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Aktualizuj"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Ta aplikacja nie będzie działać, jeśli nie zaktualizujesz Usług Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Aktualizuj Usługi Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Otwórz na telefonie"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Zaloguj się"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Zaloguj się przez Google"</string>
+    <!-- From: file:/C:/Users/Daniel/Documents/Android%20Development/Android%20Studio/Sync%20for%20iCloud%20Tasks/tasks/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <string name="confirm_delete_message">Usunąć to zadanie?</string>
+    <string name="confirm_delete_message_with_title">Usunąć \"%1s\"?</string>
+    <string name="confirm_delete_title">Potwierdź usunięcie</string>
+    <string name="dashclock_display_type_due">zadania zaplanowane</string>
+    <string name="dashclock_display_type_start">zadania rozpoczynające się</string>
+    <string name="dashclock_display_type_start_and_due">zadania rozpoczynające się i zaplanowane</string>
+    <string name="dashclock_extension_description">Wyświetla informacje dla ostatnich zadań.</string>
+    <string name="dashclock_extension_title">Zadania</string>
+    <string name="dashclock_pref_displayed_task_dialog_title">Wydarzenia do wyświetlenia</string>
+    <string name="dashclock_pref_displayed_task_summary">Wybierz, które zdarzenia zadań są wyświetlane w widżecie paska zadań</string>
+    <string name="dashclock_pref_displayed_task_title">Wyświetlone zadania</string>
+    <string name="dashclock_preference_title">Ustawienia paska zadań</string>
+    <string name="dashclock_widget_title_due_expanded">%1$s zaplanowanych due - %2$s</string>
+    <string name="dashclock_widget_title_due_expanded_allday">%1$s zaplanowane</string>
+    <string name="dashclock_widget_title_start_expanded">%1$s zaczynające się - %2$s</string>
+    <string name="dashclock_widget_title_start_expanded_allday">%1$s zaczynające się dziś</string>
+    <string name="enable_alarms">Powiadomienia</string>
+    <string name="fling_task_complete">Zakończone</string>
+    <string name="fling_task_delete">Skasuj</string>
+    <string name="fling_task_edit">Edytuj</string>
+    <string name="fling_task_uncomplete">Nie zakończone</string>
+    <string name="gd_by_completed">Zakończone</string>
+    <string name="gd_by_due_date">Data zakończenia</string>
+    <string name="gd_by_list">Listy</string>
+    <string name="install">Przed rozpoczęciem korzystania z tej aplikacji, należy pobrać Sync dla iCloud, naciskając na zdjęcie poniżej. \n \n Następnie zaloguj się do iCloud z Sync dla iCloud aplikacji do synchronizacji zadań.</string>
+    <string name="menu_add_task">Dodaj zadanie</string>
+    <string name="menu_add_task_condensed">Dodaj</string>
+    <string name="menu_hide_completed">Ukryj zakończone</string>
+    <string name="menu_search_hint">Szukaj</string>
+    <string name="menu_show_completed">Pokazuj zakończone</string>
+    <string name="menu_show_completed_condensed">Pokaż zakończone</string>
+    <string name="menu_sync_now">Odśwież</string>
+    <string name="menu_sync_now_condensed">Odśwież</string>
+    <string name="notification_action_complete">ukończone</string>
+    <string name="notification_action_completed">Zrealizowane</string>
+    <string name="notification_action_delay_1d">+1 dzień</string>
+    <string name="notification_action_delay_1h">+1 godzina</string>
+    <string name="notification_action_delay_toast">Czas zaplanowanych zaktualizowany</string>
+    <string name="notification_task_due_date">Zaplanowane %1s</string>
+    <string name="notification_task_due_title">%1s</string>
+    <string name="notification_task_due_today">Zaplanowane na dziś</string>
+    <string name="notification_task_start_date">Rozpoczynające się %1s</string>
+    <string name="notification_task_start_title">%1s</string>
+    <string name="notification_task_start_today">Rozpoczynające się dziś</string>
+    <string name="notification_undo">Cofnij</string>
+    <string name="now">teraz</string>
+    <string name="permission_description_read_tasks">Pozwala aplikacji na czytanie zadań z Twojej listy zadań.</string>
+    <string name="permission_description_write_tasks">Pozwala aplikacji na zapisywanie zadań na Twojej liście zadań.</string>
+    <string name="permission_read_tasks">Czytaj zadania</string>
+    <string name="permission_write_tasks">Zapisuj zadania</string>
+    <string name="priority_high">wysoki</string>
+    <string name="priority_low">niski</string>
+    <string name="priority_medium">średni</string>
+    <string name="priority_undefined">brak</string>
+    <string name="priority_urgent">pilne</string>
+    <string name="provider_label">Zadania</string>
+    <string name="quick_add_task_created">Zadanie utworzone</string>
+    <string name="status_cancelled">anulowane</string>
+    <string name="status_completed">wykonane</string>
+    <string name="status_in_process">trwa</string>
+    <string name="status_incomplete">niekompletne</string>
+    <string name="status_needs_action">wymaga działania</string>
+    <string name="synced_task_lists">Synchronizowane listy</string>
+    <string name="task_all_day">Cały dzień</string>
+    <string name="task_checklist">Lista</string>
+    <string name="task_classification">Prywatność</string>
+    <string name="task_completed">Zakończenie</string>
+    <string name="task_description">Opis</string>
+    <string name="task_detail_activity">Szczegóły zadania</string>
+    <string name="task_due">Koniec</string>
+    <string name="task_group_all_title">Listy</string>
+    <string name="task_group_completed_title">Zakończone</string>
+    <string name="task_group_due_in_future">W przyszłości</string>
+    <string name="task_group_due_in_month">Na miesiąc %s</string>
+    <string name="task_group_due_in_year">W roku %s</string>
+    <string name="task_group_due_title">Konieczne</string>
+    <string name="task_group_due_today">Na dziś</string>
+    <string name="task_group_due_tomorrow">Na jutro</string>
+    <string name="task_group_due_within_7_days">Wkrótce</string>
+    <string name="task_group_no_due">Brak daty zakończenia</string>
+    <string name="task_group_overdue">Zaległe</string>
+    <string name="task_group_priority_high">Wysoki priorytet</string>
+    <string name="task_group_priority_low">Niski priorytet</string>
+    <string name="task_group_priority_medium">Średni priorytet</string>
+    <string name="task_group_priority_none">Bez priorytetu</string>
+    <string name="task_group_priority_title">Priorytet</string>
+    <string name="task_group_progress_0">Nie zrealizowane</string>
+    <string name="task_group_progress_100">Zakończone</string>
+    <string name="task_group_progress_40">Rozpoczęte</string>
+    <string name="task_group_progress_60">Połowa wykonana</string>
+    <string name="task_group_progress_80">Prawie zakończone</string>
+    <string name="task_group_progress_title">Postęp</string>
+    <string name="task_group_search_title">Szukaj</string>
+    <string name="task_group_start_in_future">Później</string>
+    <string name="task_group_start_started">Już rozpoczęte</string>
+    <string name="task_group_start_title">Rozpocznij</string>
+    <string name="task_group_start_today">Dziś</string>
+    <string name="task_group_start_tomorrow">Jutro</string>
+    <string name="task_group_start_within_7_days">Kiedyś</string>
+    <string name="task_group_title_default">Zadania</string>
+    <string name="task_group_title_due">Zaplanowane</string>
+    <string name="task_group_title_list">Zadania</string>
+    <string name="task_group_title_priority">Priorytetowe</string>
+    <string name="task_group_title_progress">Stan realizacji</string>
+    <string name="task_group_title_start">Rozpoczynające się</string>
+    <string name="task_list">Lista</string>
+    <string name="task_list_selection_cancel">ANULUJ</string>
+    <string name="task_list_selection_empty">Brak dostępej listy zadań</string>
+    <string name="task_list_selection_ok">OK</string>
+    <string name="task_list_selection_title">Wybierz listy do wyświetlenia</string>
+    <string name="task_list_widget_title">Bieżące zadania</string>
+    <string name="task_list_widget_title_4x4">Bieżące zadania 4x4</string>
+    <string name="task_location">Lokalizacja</string>
+    <string name="task_percent_complete">Procent realizacji</string>
+    <string name="task_priority">Priorytet</string>
+    <string name="task_start">Początek</string>
+    <string name="task_status">Status</string>
+    <string name="task_timezone">Strefa czasowa</string>
+    <string name="task_title">Tytuł</string>
+    <string name="task_url">URL</string>
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="title_task_detail">Szczegóły zadania</string>
+    <string name="title_task_list">Zadania</string>
+    <string name="toast_task_completed">\"%1s\" zrealizowane.</string>
+    <string name="toast_task_created">\"%1s\" utworzone.</string>
+    <string name="toast_task_deleted">\"%1s\" usunięte.</string>
+    <string name="toast_task_uncompleted">\"%1s\" ponownie otwarte.</string>
+    <string name="toast_x_removed">\"%1s\" usunięte.</string>
+    <string name="visible_task_lists">Wyświetlane listy</string>
+</resources>

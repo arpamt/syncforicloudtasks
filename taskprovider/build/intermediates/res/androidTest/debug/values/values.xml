@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Daniel/Documents/Android%20Development/Android%20Studio/Sync%20for%20iCloud%20Tasks/taskprovider/build/intermediates/bundles/debug/res/values/values.xml -->
+    <eat-comment/>
+    <bool name="org_dmfs_allow_local_lists">true</bool>
+    <string name="org_dmfs_tasks_authority">com.granita.tasks</string>
+</resources>

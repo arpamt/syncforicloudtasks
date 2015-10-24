@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.granita.tasks.widget.TextFieldView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/task_widget" >
+
+    <TextView
+        android:id="@android:id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="marquee"
+        android:fadingEdge="horizontal"
+        android:singleLine="true" />
+
+    <TextView
+        android:id="@+id/text"
+        style="@style/field_view_text_value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:singleLine="true" >
+    </TextView>
+
+</com.granita.tasks.widget.TextFieldView><!-- From: file:/C:/Users/dtheuma/Documents/Android%20Studio/Sync%20for%20iCloud%20Tasks/tasks/src/main/res/layout/text_field_view_nodivider.xml -->

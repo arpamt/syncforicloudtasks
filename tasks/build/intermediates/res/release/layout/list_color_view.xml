@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.granita.tasks.widget.ListColorView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/task_widget"
+    android:orientation="vertical" >
+
+</com.granita.tasks.widget.ListColorView><!-- From: file:/C:/Users/dtheuma/Documents/Android%20Studio/Sync%20for%20iCloud%20Tasks/tasks/src/main/res/layout/list_color_view.xml -->

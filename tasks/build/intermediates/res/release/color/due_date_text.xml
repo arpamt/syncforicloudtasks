@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_activated="true" android:color="@android:color/white"/>
+    <item android:state_activated="false" android:color="@color/dark_gray"/>
+
+</selector><!-- From: file:/C:/Users/dtheuma/Documents/Android%20Studio/Sync%20for%20iCloud%20Tasks/tasks/src/main/res/color/due_date_text.xml -->

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.granita.tasks.widget.ChoicesFieldEditor xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/task_edit_widget" >
+
+    <include layout="@layout/editor_header" />
+
+    <Spinner
+        android:id="@+id/integer_choices_spinner"
+        style="@style/TextAppearance.EditTask_SpinnerButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:spinnerMode="dropdown" />
+
+</com.granita.tasks.widget.ChoicesFieldEditor><!-- From: file:/C:/Users/Daniel/Documents/Android%20Development/Android%20Studio/Sync%20for%20iCloud%20Tasks/tasks/src/main/res/layout/choices_field_editor.xml -->
